@@ -166,7 +166,7 @@ def index():
     return template(getContents(), '<h2>Welcome<h2>Hello, Web')
 
 
-@app.route('/read/<int:id>') #str인 id를 int로 바꿈
+@app.route('/read/<int:id>') # str인 id를 int로 바꿈
 def read(id): 
     title = ''
     body = ''
@@ -602,7 +602,7 @@ def update(id):
 def delete(id):
     for topic in topics:
         if id == topic['id']:
-            topics.remove(topic) #topic이라는 값(인자)을 topics에서 제거함
+            topics.remove(topic) # topic이라는 값(인자)을 topics에서 제거함
             break
     return redirect('/')
 
