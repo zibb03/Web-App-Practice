@@ -6,14 +6,14 @@
 
 ## 실습 차시
 - [1차시](https://github.com/zibb03/Web-App-Practice/tree/main/ch1)
-- [3차시](https://github.com/zibb03/Web-App-Practice/tree/main/ch3)
+<!-- - [3차시](https://github.com/zibb03/Web-App-Practice/tree/main/ch3)
 - 4차시
 - 5차시
 - 6차시
 - 7차시
 - 8차시
 - 9차시
-- 10차시
+- 10차시 -->
 
 ## 실습 및 구축 환경
 - 학생 1인당 온라인 학습 장비가 있어야함 (Windows10 이상 기반 PC)
