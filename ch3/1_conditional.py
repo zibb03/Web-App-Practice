@@ -1,12 +1,17 @@
-a = 16
-b = 25
-c = 27
-if a > b:
-    if b > c:
-        print ("a is greater than b and b is greater than c")
-    else: 
-        print ("a is greater than b and less than c")
-elif a == b:
-    print ("a is equal to b")
+# 자연수를 분류하는 문제
+
+# 분류할 수를 저장한 변수 num 
+num = -11
+
+if num > 0:
+    print("양수 입니다.")
+
+    # 중첩 if 조건문
+    if num > 100:
+        print("이 수는 100보다 큽니다.")
+elif num == 0: 
+    print ("0 입니다.")
 else:
-    print ("a is less than b")
+    # 위의 조건문에 모두 해당하지 않을 경우
+    # 0보다 크지 않고, 0이 아닌 경우
+    print ("음수 입니다.")
