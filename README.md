@@ -1,5 +1,5 @@
-<img width="100%" src="https://user-images.githubusercontent.com/64014435/231404978-b6ea3118-0837-49b5-a71e-5acb1d64ca73.png"/>
-
+<!-- <img width="100%" src="https://user-images.githubusercontent.com/64014435/231404978-b6ea3118-0837-49b5-a71e-5acb1d64ca73.png"/>
+ -->
 ### 마이크로소프트 필란트로피즈 지원
 # 디지털 임파워먼트 프로젝트
 
