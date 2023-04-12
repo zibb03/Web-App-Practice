@@ -1,6 +1,7 @@
+<img width="100%" src="https://user-images.githubusercontent.com/64014435/231404978-b6ea3118-0837-49b5-a71e-5acb1d64ca73.png"/>
+
 ### 마이크로소프트 필란트로피즈 지원
 # 디지털 임파워먼트 프로젝트
-<img width="100%" src="https://user-images.githubusercontent.com/64014435/231404978-b6ea3118-0837-49b5-a71e-5acb1d64ca73.png"/>
 
 마이크로소프트 Azure를 활용한 인공지능 웹(Web)・앱(App) 클라우드 교육과정의 실습 예제입니다.
 
