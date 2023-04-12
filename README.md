@@ -6,8 +6,7 @@
 
 ## 실습 차시
 - [2차시](https://github.com/zibb03/Web-App-Practice/tree/main/ch2)
-<!-- - [3차시](https://github.com/zibb03/Web-App-Practice/tree/main/ch3)
-- 4차시
+<!-- - [4차시](https://github.com/zibb03/Web-App-Practice/tree/main/ch3)
 - 5차시
 - 6차시
 - 7차시
