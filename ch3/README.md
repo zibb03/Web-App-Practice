@@ -1,5 +1,7 @@
 # 실습 자료
 
+
+- [Hello, world!](https://github.com/zibb03/Web-App-Practice/blob/python/ch3/hello.py)
 - [변수와 연산자](https://github.com/zibb03/Web-App-Practice/blob/python/ch3/1.py)
 - [문자열](https://github.com/zibb03/Web-App-Practice/blob/python/ch3/string.txt)
 - [리스트 만들기](https://github.com/zibb03/Web-App-Practice/blob/python/ch3/2.py)
