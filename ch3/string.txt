@@ -1,0 +1,17 @@
+fact = "The Moon has no atmosphere."
+
+fact + "No sound can be heard on the Moon."
+
+fact
+
+two_facts = fact + "No sound can be heard on the Moon."
+
+two_facts
+
+moon_radius = "The Moon has a radius of 1,080 miles"
+
+'The "near side" is the part of the Moon that faces the Earth'
+
+"We only see about 60% of the Moon's surface"
+
+'We only see about 60% of the Moon's surface'
