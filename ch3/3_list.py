@@ -10,3 +10,5 @@ print("Mars is also known as", planets[3])
 planets.append("Pluto")
 number_of_planets = len(planets)
 print("There are actually", number_of_planets, "planets in the solar system.")
+
+# 전화번호부 문제 출제
