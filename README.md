@@ -6,7 +6,7 @@
 마이크로소프트 Azure를 활용한 인공지능 웹(Web)・앱(App) 클라우드 교육과정의 실습 예제입니다.
 
 ## 실습 자료
-- [02. HTML과 Visual Studio Code 실습환경 만들기](https://github.com/zibb03/Web-App-Practice/tree/main/ch1)
+- [02. HTML과 Visual Studio Code 실습환경 만들기](https://github.com/zibb03/Web-App-Practice/tree/main/ch2)
 <!-- - [4차시](https://github.com/zibb03/Web-App-Practice/tree/main/ch3)
 - 5차시
 - 6차시
