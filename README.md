@@ -7,8 +7,8 @@
 
 ## 실습 자료
 - [02. HTML과 Visual Studio Code 실습환경 만들기](https://github.com/zibb03/Web-App-Practice/tree/main/ch2)
-<!-- - [4차시](https://github.com/zibb03/Web-App-Practice/tree/main/ch3)
-- 5차시
+- [04. 파이썬](https://github.com/zibb03/Web-App-Practice/tree/main/ch4)
+<!-- - 5차시
 - 6차시
 - 7차시
 - 8차시
