@@ -1,0 +1,28 @@
+<!doctype html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=l.0">
+        <title>Task Manager</title>
+    </head>
+    <body>
+        <h1>Task Manager</h1>
+        <!-- add_task 함수의 post 방식에 따라, 사용자가 입력한 정보(task)를 전달하는 <form> 태그-->
+        <form action="{{ url_for('add_task') }}" method="post">
+            <input type="text" name="task" placeholder="New Task" required>
+            <button type="submit">Add Task</button>
+        </form>
+        <ul>
+            <!-- tasks 속 인자를 받아오는 for문 -->
+            {% for task in tasks %}
+            <li>
+                <!-- 작업명을 출력하는 부분 -->
+                {{ task[1] }}
+                <!-- 현재 문서와 app.py의 delete_task를 연결하는 <a> 태그 -->
+                <a href="{{ url_for('delete_task', task_id=task[0]) }}">Delete</a>
+            </li>
+            <!-- for문이 끝났음을 알리는 코드 -->
+            {% endfor %}
+        </ul>   
+    </body>
+</html>
