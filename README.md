@@ -8,12 +8,10 @@
 ## 실습 자료
 - [01. HTML과 Visual Studio Code 실습환경 만들기](https://github.com/zibb03/Web-App-Practice/tree/main/ch1)
 - [03. 파이썬](https://github.com/zibb03/Web-App-Practice/tree/main/ch3)
-<!-- - 5차시
-- 6차시
-- 7차시
-- 8차시
-- 9차시
-- 10차시 -->
+- [04. 웹 프레임워크 - Flask](https://github.com/zibb03/Web-App-Practice/tree/main/ch4)
+- [05. 데이터베이스 - SQLite](https://github.com/zibb03/Web-App-Practice/tree/main/ch5)
+- [06. Flask와 SQLite](https://github.com/zibb03/Web-App-Practice/tree/main/ch6)
+
 
 ## 실습 및 구축 환경
 - 학생 1인당 온라인 학습 장비가 필요합니다. (Windows10 이상 기반 PC)
