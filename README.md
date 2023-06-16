@@ -12,9 +12,11 @@
 - [05. 데이터베이스 - SQLite](https://github.com/zibb03/Web-App-Practice/tree/main/ch5)
 - [06. Flask와 SQLite](https://github.com/zibb03/Web-App-Practice/tree/main/ch6)
 - [12. 인공지능 웹 앱 만들기 02](https://github.com/zibb03/Web-App-Practice/tree/main/ch12)
+- [13. 인공지능 웹 앱 만들기 03](https://github.com/zibb03/Web-App-Practice/tree/main/ch13)
 
 ## 실습 및 구축 환경
 - 학생 1인당 온라인 학습 장비가 필요합니다. (Windows10 이상 기반 PC)
+- [공학도서관](https://gongdo.kr/courses/gULipQ2i4DhhqCh3AbX8)
 
 ---
 
