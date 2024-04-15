@@ -18,5 +18,5 @@
 ## 실습 및 구축 환경
 - 학생 1인당 온라인 학습 장비가 필요합니다. (Windows10 이상 기반 PC)
 
-## 포스터
-<!--<img width="80%" alt="2024 MS 포스터" src="https://firebasestorage.googleapis.com/v0/b/microschool-gongdo.appspot.com/o/prod%2Fres%2F2024-MS-DigitalEmpowerment%2FMS_Thumbnail.png?alt=media&token=ba969440-37ba-4b03-9d12-28641e38e851"/>-->
+<!--## 포스터
+<img width="80%" alt="2024 MS 포스터" src="https://firebasestorage.googleapis.com/v0/b/microschool-gongdo.appspot.com/o/prod%2Fres%2F2024-MS-DigitalEmpowerment%2FMS_Thumbnail.png?alt=media&token=ba969440-37ba-4b03-9d12-28641e38e851"/>-->
